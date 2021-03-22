@@ -14,6 +14,11 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Sunt un dobitoc");
         System.out.println("barosan");
+        int i;
+        for(i=0;i<10;i++){
+            System.out.println( i + " ");
+        }
+
         String[] xmlList = new String[6];
         xmlList[0] = "<tag1>";
         xmlList[1] = "text1";
