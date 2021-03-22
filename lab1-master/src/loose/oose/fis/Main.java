@@ -13,6 +13,7 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("Sunt un dobitoc");
+        System.out.println("barosan");
         String[] xmlList = new String[6];
         xmlList[0] = "<tag1>";
         xmlList[1] = "text1";
